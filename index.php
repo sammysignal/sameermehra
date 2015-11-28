@@ -1,9 +1,8 @@
 <html>
   <head>
-    <link rel="stylesheet" href="navbar.css">
+    <link rel="stylesheet" href="css/navbar.css">
   </head>
   <body>
-    <? include('navbar.html'); ?>
-    hello
+    <? include('html/navbar.html'); ?>
   </body>
 </html>

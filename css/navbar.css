@@ -2,7 +2,7 @@
 
 #navbar {
 	width: 100%;
-	height: 30px;
+	height: 60px;
 	background-color: red;
 }
 
@@ -10,4 +10,12 @@
 	width: 25%;
 	border: 1px black;
 	text-align: center;
+}
+
+
+#navbar td :hover {
+	width: 25%;
+	border: 1px black;
+	text-align: center;
+	background-color: orange;
 }
